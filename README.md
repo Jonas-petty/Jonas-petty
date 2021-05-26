@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonas-petty
 - 👀 I’m interested in developing web pages, softwares, systems and anything with I.T.
-- 🌱 I’m currently learning HTML, CSS and JS.
+- 🌱 I’m currently learning HTML, CSS, JS and SQL Server.
 - 💞️ I’m looking to collaborate with people available to exchang knowledge .
 - 📫 How to reach me: Email: jonaspetty@hotmail.com
 
