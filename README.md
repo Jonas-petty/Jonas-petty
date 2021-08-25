@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jonas Felix!
 
 - 📚 Estou estudando para me tornar um Dev Front-End.
-- ☕ Atualmente estou estudando JavaScript.
+- ☕ Atualmente estou estudando JavaScript e C#.
 
 <div>
   <a href="https://github.com/jonas-petty" style="display: inline-block">
@@ -12,7 +12,8 @@
 <div style="display: inline-block"><br>
   <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jonas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
 ##
