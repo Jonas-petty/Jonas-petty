@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/jonas-petty" style="display: inline-block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-petty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-petty&layout=compact&langs_count=7&theme=algolia&locale=pt-br&card_width=250"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-petty&layout=compact&langs_count=7&theme=algolia&locale=pt-br&card_width=240"/>
 </div>
   
 <div style="display: inline-block"><br>
