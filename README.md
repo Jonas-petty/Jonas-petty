@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jonas Felix!
 
 - 📚 Estou estudando para me tornar um Dev Front-End.
-- ☕ Atualmente estou estudando JavaScript e C#.
+- ☕ Atualmente estou estudando JavaScript e Python.
 
 <div>
   <a href="https://github.com/jonas-petty" style="display: inline-block">
