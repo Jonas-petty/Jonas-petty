@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jonas Felix!
 
-- 📚 Estou estudando para me tornar um Dev Front-End.
+- 📚 Estou estudando para me tornar um Dev Full-Stack.
 - ☕ Atualmente estou estudando JavaScript e Python.
 
 <div>
