@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jonas Felix!
 
 - 📚 Estou estudando para me tornar um Dev Full-Stack.
-- ☕ Atualmente estou estudando JavaScript e Python.
+- ☕ Atualmente estou me aprimorando em Spring Boot e ReactJs.
 
 <div>
   <a href="https://github.com/jonas-petty" style="display: inline-block">
@@ -16,6 +16,7 @@
   <img align="center" alt="Jonas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jonas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jonas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Jonas-Spring-Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
   
 ##
